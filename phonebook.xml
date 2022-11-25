@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EltexIPPhoneDirectory>
+    <Title>EltexPhones</Title>
+    <Prompt>Prompt</Prompt>
+    <DirectoryEntry>
+        <Name>Директор</Name>
+        <Telephone>1085637</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Секретарь</Name>
+        <Telephone>1085635</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Денисова О.Ю.</Name>
+        <Telephone>1085640</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Кравченко Е.В.</Name>
+        <Telephone>1085638</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Мурзова И.В.</Name>
+        <Telephone>1085639</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Соколова Д.Ю.</Name>
+        <Telephone>1085650</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Контрактная служба</Name>
+        <Telephone>1085641</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Ведущий экономист</Name>
+        <Telephone>1085642</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Старший педагог ДО</Name>
+        <Telephone>1085643</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Специалист по безопасности</Name>
+        <Telephone>1085645</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>IT Служба</Name>
+        <Telephone>1085646</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Инженеры</Name>
+        <Telephone>1085648</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Учебный отдел</Name>
+        <Telephone>1085649</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Отдел кадров</Name>
+        <Telephone>1085651</Telephone>
+    </DirectoryEntry>
+</EltexIPPhoneDirectory>
