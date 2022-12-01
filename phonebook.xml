@@ -58,4 +58,8 @@
         <Name>Отдел кадров</Name>
         <Telephone>1085651</Telephone>
     </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Специалист по питанию</Name>
+        <Telephone>1085663</Telephone>
+    </DirectoryEntry>
 </EltexIPPhoneDirectory>
