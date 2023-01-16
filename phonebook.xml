@@ -59,7 +59,138 @@
         <Telephone>1085651</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Специалист по питанию</Name>
+        <Name>Специалист по питанию А</Name>
         <Telephone>1085663</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Охрана труда А</Name>
+        <Telephone>1085661</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий хозяйством А</Name>
+        <Telephone>1085662</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Автошкола А</Name>
+        <Telephone>1085664</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий отделением А</Name>
+        <Telephone>1085665</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Специалист по УМР А</Name>
+        <Telephone>1085666</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Психологическая служба А</Name>
+        <Telephone>1085667</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Библиотека А</Name>
+        <Telephone>1085668</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Приёмная комиссия А</Name>
+        <Telephone>1085669</Telephone>
+    </DirectoryEntry><DirectoryEntry>
+        <Name>Пост охраны А Вход</Name>
+        <Telephone>1085685</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Пост охраны А Выход</Name>
+        <Telephone>1085686</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий отделением Д</Name>
+        <Telephone>1085689</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Пост охраны Д</Name>
+        <Telephone>1085690</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий хозяйством Д</Name>
+        <Telephone>1085691</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Библиотека/Приемная комиссия Д</Name>
+        <Telephone>1085692</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Специалист по питанию Д</Name>
+        <Telephone>1085693</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Лаборатория (сварочная) Д</Name>
+        <Telephone>1085694</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Лаборатория (холодильная) Д</Name>
+        <Telephone>1085695</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Авторемонтная мастерская Д</Name>
+        <Telephone>1085696</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Психологическая служба Д</Name>
+        <Telephone>1085697</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Автошкола Д</Name>
+        <Telephone>1085698</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий отделением П</Name>
+        <Telephone>1085700</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Пост охраны П</Name>
+        <Telephone>1085701</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Специалист (расписание) П</Name>
+        <Telephone>1085702</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Социальный педагог П</Name>
+        <Telephone>1085703</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Приемная комиссия П</Name>
+        <Telephone>1085704</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий хозяйством П</Name>
+        <Telephone>1085705</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Автошкола П</Name>
+        <Telephone>1085706</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий отделением Б</Name>
+        <Telephone>1085707</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Пост охраны Б</Name>
+        <Telephone>1085708</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Заведующий отделением В</Name>
+        <Telephone>1085709</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Пост охраны В</Name>
+        <Telephone>1085710</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Авторемонтная мастерская В</Name>
+        <Telephone>1085711</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Столярная мастерская В</Name>
+        <Telephone>1085712</Telephone>
     </DirectoryEntry>
 </EltexIPPhoneDirectory>
