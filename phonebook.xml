@@ -54,6 +54,10 @@
         <Name>Учебный отдел</Name>
         <Telephone>1085649</Telephone>
     </DirectoryEntry>
+		<DirectoryEntry>
+        <Name>Административный отдел</Name>
+        <Telephone>1085647</Telephone>
+    </DirectoryEntry>
 	<DirectoryEntry>
         <Name>Отдел кадров</Name>
         <Telephone>1085651</Telephone>
