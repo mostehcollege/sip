@@ -7,7 +7,7 @@
         <Telephone>1085637</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>ИВАНОВ</Name>
+        <Name>Николай</Name>
         <Telephone>1085636</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
@@ -87,5 +87,6 @@
         <Telephone>1086901</Telephone>
     </DirectoryEntry>
 </EltexIPPhoneDirectory>
+
 
 
