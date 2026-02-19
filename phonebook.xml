@@ -15,7 +15,7 @@
         <Telephone>1085640</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Островский К.В.</Name>
+        <Name>Гусарова Л.В.</Name>
         <Telephone>1085638</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
@@ -23,8 +23,12 @@
         <Telephone>1085639</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Соколова Д.Ю.</Name>
+        <Name>Журкина Т.В.</Name>
         <Telephone>1085650</Telephone>
+    </DirectoryEntry>
+	<DirectoryEntry>
+        <Name>Морозов П.А.</Name>
+        <Telephone>1085648</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
         <Name>Контрактная служба</Name>
@@ -35,26 +39,18 @@
         <Telephone>1085642</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Старший педагог ДО</Name>
+        <Name>Отдел ДО</Name>
         <Telephone>1085643</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Специалист по безопасности</Name>
+        <Name>Голиков И.В.</Name>
         <Telephone>1085645</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Отдел Информационного Сопровождения</Name>
-        <Telephone>1085646</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Инженеры</Name>
-        <Telephone>1085648</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
         <Name>Учебный отдел</Name>
         <Telephone>1085649</Telephone>
     </DirectoryEntry>
-		<DirectoryEntry>
+	<DirectoryEntry>
         <Name>Административный отдел</Name>
         <Telephone>1085647</Telephone>
     </DirectoryEntry>
@@ -63,138 +59,28 @@
         <Telephone>1085651</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Специалист по питанию А</Name>
-        <Telephone>1085663</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Охрана труда А</Name>
-        <Telephone>1085661</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Заведующий хозяйством А</Name>
-        <Telephone>1085662</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Автошкола А</Name>
-        <Telephone>1085664</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Заведующий отделением А</Name>
-        <Telephone>1085665</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Специалист по УМР А</Name>
-        <Telephone>1085666</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Психологическая служба А</Name>
-        <Telephone>1085667</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Библиотека А</Name>
-        <Telephone>1085668</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Приёмная комиссия А</Name>
-        <Telephone>1085669</Telephone>
-    </DirectoryEntry><DirectoryEntry>
-        <Name>Пост охраны А Вход</Name>
-        <Telephone>1085685</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Пост охраны А Выход</Name>
-        <Telephone>1085686</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
         <Name>Заведующий отделением Д</Name>
         <Telephone>1085689</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Пост охраны Д</Name>
-        <Telephone>1085690</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Заведующий хозяйством Д</Name>
-        <Telephone>1085691</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Библиотека/Приемная комиссия Д</Name>
+        <Name>Приемная комиссия</Name>
         <Telephone>1085692</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Специалист по питанию Д</Name>
-        <Telephone>1085693</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Лаборатория (сварочная) Д</Name>
-        <Telephone>1085694</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Лаборатория (холодильная) Д</Name>
-        <Telephone>1085695</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Авторемонтная мастерская Д</Name>
-        <Telephone>1085696</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Психологическая служба Д</Name>
-        <Telephone>1085697</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Автошкола Д</Name>
-        <Telephone>1085698</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
         <Name>Заведующий отделением П</Name>
-        <Telephone>1085700</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Пост охраны П</Name>
-        <Telephone>1085701</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Специалист (расписание) П</Name>
         <Telephone>1085702</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Социальный педагог П</Name>
-        <Telephone>1085703</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Приемная комиссия П</Name>
-        <Telephone>1085704</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Заведующий хозяйством П</Name>
-        <Telephone>1085705</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Автошкола П</Name>
-        <Telephone>1085706</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
         <Name>Заведующий отделением Б</Name>
         <Telephone>1085707</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Пост охраны Б</Name>
-        <Telephone>1085708</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
         <Name>Заведующий отделением В</Name>
         <Telephone>1085709</Telephone>
     </DirectoryEntry>
 	<DirectoryEntry>
-        <Name>Пост охраны В</Name>
-        <Telephone>1085710</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Авторемонтная мастерская В</Name>
-        <Telephone>1085711</Telephone>
-    </DirectoryEntry>
-	<DirectoryEntry>
-        <Name>Столярная мастерская В</Name>
-        <Telephone>1085712</Telephone>
+        <Name>Заведующий отделением ВП</Name>
+        <Telephone>1086901</Telephone>
     </DirectoryEntry>
 </EltexIPPhoneDirectory>
+
